@@ -1,0 +1,12 @@
+RECEIPT GO-RIDE
+ Thank you for using Go-Ride
+ From [1, 1] to [20, 20]
+ Driver name Bobi from location [5, 2]
+ The route is
+	start at (2,2)
+	go to (21,2)
+	turn left
+	go to (21,21)
+	finish at (21,21)
+ Distance : 38
+The price is 11400
